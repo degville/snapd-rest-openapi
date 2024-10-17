@@ -22,7 +22,7 @@ Moving to an OpenAPI-based source document is intended to solve these problems.
 
 The `/yaml` directory contains the current yaml specification for the OpenAPI translation.
 
-The `/docs` directory contains the source Markdown file, and a _diff_ file containing the source elements that have so-far not been migrated to the OpenAPI yaml file.
+The `/original` directory contains the source Markdown file and a _diff_ file containing the source elements that have so-far not been migrated to the OpenAPI yaml file.
 
 ## Work still to do
 
